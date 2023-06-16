@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function HeaDer() {
   return (
-    <div className=' flex justify-center mt-4'>
+    <div className=' flex justify-center mt-14 py-4'>
       <div className='h-18 w-22 mr-12'><img src='https://rukminim1.flixcart.com/fk-p-flap/128/128/image/47e5c31ef7dcce1e.png?q=100' className='h-17 w-16 ml-1.5  ' />
       <p className=' font-bold hover:text-blue-500 cursor-pointer'>Top Offers</p>
       </div>
